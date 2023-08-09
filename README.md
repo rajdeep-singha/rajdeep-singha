@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @RajuC0der
-- 👀 I’m interested in learning new techs
-- 🌱 I’m currently learning CSS
+- 👀 I’m interested in Web Devolopment
+- 🌱 I’m currently persuing B.tech at SRM KTR(2023-2027)
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me on linkdin,instagram.
 
 <!---
 RajuC0der/RajuC0der is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
