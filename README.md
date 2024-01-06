@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rajdeep Singha</h1>
 <h3 align="center">A passionate frontend developer, currently learning C++, JS.</h3>
 
-<img align="right" alt="coding" width="400" scr="https://media0.giphy.com/media/PmAjqmm4beKervYzFr/giphy.gif?cid=ecf05e47rtlvmbv8cngzbiso3avbjxuzg0gpansducbfvtwb&ep=v1_gifs_related&rid=giphy.gif&ct=g">
+<img align="right" alt="coding" width="400" scr="![OIG](https://github.com/RajuC0der/RajuC0der/assets/137903887/07297c53-285a-4aa2-9b4d-e2cbf1416e13)
+">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RajuC0der&label=Profile%20views&color=0e75b6&style=flat" alt="rajuc0der" /> </p>
 
