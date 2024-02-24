@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rajdeep Singha</h1>
 <h3 align="center">A passionate frontend developer, currently learning C++, JS.</h3>
 
-<img align="right" alt="coding" width="400" scr="OIG.jpeg">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajdeep-singha&label=Profile%20views&color=0e75b6&style=flat" alt="rajdeep-singha" /> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=RajuC0der&label=Profile%20views&color=0e75b6&style=flat" alt="rajdeep-singha" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username="rajdeep-singha" alt="rajdeep-singha" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajdeep-singha" alt="rajdeep-singha" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/singh61402" target="blank"><img src="https://img.shields.io/twitter/follow/singh61402?logo=twitter&style=for-the-badge" alt="singh61402" /></a> </p>
 
@@ -35,4 +33,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajdeep-singha&show_icons=true&locale=en" alt="rajdeep-singha" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajdeep-singha&" alt="rajdeep-singha" /></p>
-
