@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rajdeep Singha</h1>
-<h3 align="center">A passionate frontend developer, currently learning C++, JS.</h3>
+<h3 align="center">A passionate fullstack developer, currently learning SQL,JAVA and React.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajdeep-singha&label=Profile%20views&color=0e75b6&style=flat" alt="rajdeep-singha" /> </p>
 
