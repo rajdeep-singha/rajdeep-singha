@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://twitter.com/singh61402](https://twitter.com/singh61402)
 
-- 💬 Ask me about **C,HTML,CSS**
+- 💬 Ask me about **C,HTML,CSS,JAVASCRIPT,REACT.JS,BLOCKCHAIN,ML,DSA**
 
 - 📫 How to reach me **rajdeepsingha384@gmail.com**
 
