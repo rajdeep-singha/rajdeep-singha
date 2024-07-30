@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rajdeep Singha</h1>
-<h3 align="center">A passionate fullstack developer, currently learning SQL,JAVA and React.</h3>
+<h3 align="center">A passionate fullstack developer, currently learning 🧑‍💻 SQL, 🍵 JAVA and ✡️ React.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajdeep-singha&label=Profile%20views&color=0e75b6&style=flat" alt="rajdeep-singha" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [SWOC](https://www.socialwinterofcode.com/)
 
-- 🌱 I’m currently learning **DSA with C++, JavaScript**
+- 🌱 I’m currently learning **DSA with JAVA , JavaScript , REACT, MYSQL**
 
 - 📝 I regularly write articles on [https://twitter.com/singh61402](https://twitter.com/singh61402)
 
