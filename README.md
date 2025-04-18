@@ -2,8 +2,10 @@
 <h3 align="center">🚀 Fullstack Developer | 🛠️ Passionate Coder | 📘 Lifelong Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Building+cool+things+with+code!;Currently+learning+React%2C+Java+%26+SQL;Blockchain+%26+DSA+enthusiast;Always+learning+new+tech!🚀" alt="Typing SVG" />
-<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2FA8D0&center=true&width=435&lines=Building+cool+things+with+code!;Currently+learning+React%2C+Java+%26+SQL;Blockchain+%26+DSA+enthusiast;Always+learning+new+tech!🚀" alt="Typing SVG" />
+</p>
+
+
   <img src="https://github.com/user-attachments/assets/460d8d0b-ac4b-45cc-82bd-6063d96f3d4a" alt="ChatGPT Image" width="800"/>
 </p>
 
