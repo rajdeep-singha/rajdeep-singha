@@ -17,8 +17,8 @@
 ### 🧑‍💻 About Me
 
 - 🔭 I’m currently working on: [SWOC - Social Winter of Code](https://www.socialwinterofcode.com/)
-- 🌱 I’m diving deeper into: **DSA with JAVA, JavaScript, React, MySQL**
-- 📝 I tweet dev tips & mini blogs on: [Twitter @singh61402](https://twitter.com/singh61402)
+- 🌱 I’m diving deeper into: **DSA with C++, JavaScript, TupeScript, MySQL, System Design**
+- 📝 I tweet dev tips & mini blogs on: [Twitter @singh61402](https://twitter.com/web3withsingh)
 - 💬 Ask me about:  
   `C`, `HTML`, `CSS`, `JavaScript`, `React.js`, `Blockchain`, `Machine Learning`, `DSA`
 - 📫 Reach me at: **rajdeepsingha384@gmail.com**
