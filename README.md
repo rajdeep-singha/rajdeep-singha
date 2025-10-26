@@ -39,7 +39,7 @@
 ### 🛠️ Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,java,python,mysql,c,cpp,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,typescript,next,solidity,move,clarity,,python,mysql,c,cpp,git,github" />
 </p>
 
 ---
