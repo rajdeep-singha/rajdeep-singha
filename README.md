@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! 👋 I'm Rajdeep Singha</h1>
-<h3 align="center">🚀 Fullstack Developer | 🛠️ Passionate Coder | 📘 Lifelong Learner</h3>
+<h3 align="center">🚀 Fullstack Blockchain Developer | 🛠️ Passionate Coder | 📘 Lifelong Learner</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2FA8D0&center=true&width=435&lines=Building+cool+things+with+code!;Currently+learning+React%2C+Java+%26+SQL;Blockchain+%26+DSA+enthusiast;Always+learning+new+tech!🚀" alt="Typing SVG" />
@@ -16,11 +16,11 @@
 
 ### 🧑‍💻 About Me
 
-- 🔭 I’m currently working on: [SWOC - Social Winter of Code](https://www.socialwinterofcode.com/)
+- 🔭 I’m currently working as SmartContract Dev/ Maeven at RiseIn 
 - 🌱 I’m diving deeper into: **DSA with C++, JavaScript, TupeScript, MySQL, System Design**
 - 📝 I tweet dev tips & mini blogs on: [Twitter @singh61402](https://twitter.com/web3withsingh)
 - 💬 Ask me about:  
-  `C`, `HTML`, `CSS`, `JavaScript`, `React.js`, `Blockchain`, `Machine Learning`, `DSA`
+  `C++`, `JavaScript`,`TypeScript`, `React.JS`, `Next.JS`, `Solidity`, `Move`, `DSA`,`System Desisgn`,`Operating System`
 - 📫 Reach me at: **rajdeepsingha384@gmail.com**
 
 ---
@@ -28,7 +28,7 @@
 ### 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://twitter.com/singh61402"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://twitter.com/web3withsingh"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/rajdeep-singha-225b32246/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.instagram.com/rajdeepsingha4/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://www.youtube.com/channel/UCNIIj8nOLYrW8cacdY9NDwW"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white"/></a>
