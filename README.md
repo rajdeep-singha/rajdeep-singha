@@ -14,7 +14,7 @@
 
 ---
 
-### 🧑‍💻 About Me
+### 🧑‍💻 About Me .
 
 - 🔭 I’m currently working as SmartContract Dev/ Maeven at RiseIn 
 - 🌱 I’m diving deeper into: **DSA with C++, JavaScript, TupeScript, MySQL, System Design**
