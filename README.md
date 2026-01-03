@@ -17,7 +17,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,typescript,next,solidity,python,mysql,c,cpp,git,github" />
 </p>
 
- <h2 align="center">🌐 Connect with Me </h2>
+ <h2 align="center"> Connect with Me </h2>
 
 <p align="left">
   <a href="https://twitter.com/web3withsingh"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/></a>
